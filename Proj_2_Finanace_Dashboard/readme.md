@@ -39,3 +39,5 @@ In this project, you will create a comprehensive company finance dashboard using
 - **Tableau**: For creating interactive and dynamic financial dashboards.
 - **Excel/CSV Files**: As data sources for the visualizations.
 
+Link to Tableau Dashboard - https://public.tableau.com/views/Finance_dashboard_17223498237240/PnL_Dash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
